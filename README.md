@@ -6,7 +6,10 @@ Very interested in anything that involves programming, from Web Design to Comput
 
 I'm currently learning Web Design more deeply and also starting to learn about OS and low-level languages, it is quite impressive.
 
-- 📫 How to reach me ...
+---
+
+<img align="center" alt="henriqFerreira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=henriqFerreira&show_icons=true&hine_border=true"/>
+<!-- <img align="center" alt="Top Langs" src"https://github-readme-stats.vercel.app/api/top-langs/?username=henriqFerreira&hide=html&layout=compact"/> -->
 
 <!---
 henriqFerreira/henriqFerreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

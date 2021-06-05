@@ -10,7 +10,7 @@ I'm currently learning Web Design more deeply and also starting to learn about O
 
 <img align="left" alt="henriqFerreira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=henriqFerreira&show_icons=true&hine_border=true"/>
 
-<img align="right" alt="henriqFerreira's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqFerreira&layout=compact"/>
+<img alt="henriqFerreira's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqFerreira&layout=compact"/>
 
 <!---
 henriqFerreira/henriqFerreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

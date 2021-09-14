@@ -34,11 +34,13 @@ I'm currently learning Web Design more deeply and also starting to learn about O
   - Design: <br><br>
     ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ## ⚡ My stats
-<div>
+<div align="center">
   <img height="168em" alt="henriqFerreira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=henriqFerreira&show_icons=true&hine_border=true&theme=dracula"/>
   <img height="168em" lt="henriqFerreira's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqFerreira&layout=compact&theme=dracula"/>
 </div>
-
+<div align="center">
+  <img height="168em" src="https://github-readme-streak-stats.herokuapp.com/?user=henriqFerreira&theme=dracula"/>
+</div>
 <!---
 henriqFerreira/henriqFerreira is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.

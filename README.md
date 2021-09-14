@@ -35,8 +35,8 @@ I'm currently learning Web Design more deeply and also starting to learn about O
     ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ## ⚡ My stats
 <div>
-  <img height="167em" alt="henriqFerreira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=henriqFerreira&show_icons=true&hine_border=true&theme=dracula"/>
-  <img height="167em" lt="henriqFerreira's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqFerreira&layout=compact&theme=dracula"/>
+  <img height="168em" alt="henriqFerreira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=henriqFerreira&show_icons=true&hine_border=true&theme=dracula"/>
+  <img height="168em" lt="henriqFerreira's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqFerreira&layout=compact&theme=dracula"/>
 </div>
 
 <!---

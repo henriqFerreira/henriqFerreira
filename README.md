@@ -1,4 +1,4 @@
-## 👋 Hi, I’m Henrique Neto!
+<h1 align="center"><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px"> Hi! I'm Henrique Neto</h1>
 
 I'm currently 17 years old, attending the last year of high school and very ambitious for the future I want.
 

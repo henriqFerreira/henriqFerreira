@@ -12,3 +12,17 @@
 </br>
 
 ![henriqFerreira's github activity graph](https://activity-graph.herokuapp.com/graph?username=henriqferreira&theme=react-dark)
+
+<details>
+  <summary>Extra informations</summary>
+  </br>
+  
+  <p align="center">
+    <a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api?username=henriqferreira&show_icons=true&theme=github_dark" width="480"/>
+    </a>
+    <a>
+      <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=henriqferreira&layout=compact&theme=github_dark&langs_count=10" width="400"/>
+    </a>
+  </p>
+</details>

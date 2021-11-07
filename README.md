@@ -14,7 +14,7 @@
 ![henriqFerreira's github activity graph](https://activity-graph.herokuapp.com/graph?username=henriqferreira&theme=react-dark)
 
 <details>
-  <summary>More informations </summary>
+  <summary>More informations</summary>
   </br>
   
   <p align="center">

@@ -9,7 +9,7 @@
     <a href="https://codepen.io/HenriqueNettoo">Codepen</a>
   </samp>
 </p>
-</br>
+<!-- </br>
 
 ![henriqFerreira's github activity graph](https://activity-graph.herokuapp.com/graph?username=henriqferreira&theme=react-dark)
 
@@ -26,3 +26,4 @@
     </a>
   </p>
 </details>
+ -->
